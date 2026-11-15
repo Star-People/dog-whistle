@@ -1,12 +1,12 @@
 # Dog Whistle
 
-[![Deploy to GitHub Pages](https://github.com/Star-People/dog-whistle/actions/workflows/pages.yml/badge.svg)](https://github.com/Star-People/dog-whistle/actions/workflows/pages.yml)
+[![Deploy to GitHub Pages](https://github.com/starpeopleai/dog-whistle/actions/workflows/pages.yml/badge.svg)](https://github.com/starpeopleai/dog-whistle/actions/workflows/pages.yml)
 
 A static, browser-based Web Audio player that renders and plays a layered tone stack inspired by a public UAP "dog whistle" signal description.
 
-Live site: https://star-people.github.io/dog-whistle/
+Live site: https://starpeopleai.github.io/dog-whistle/
 
-Repository: https://github.com/Star-People/dog-whistle
+Repository: https://github.com/starpeopleai/dog-whistle
 
 Anonymous tips: https://tips.hushline.app/to/ufo-files
 
@@ -113,9 +113,9 @@ This is an experimental signal player and visualizer, not evidence that any tone
 
 The site is hosted with GitHub Pages from the `main` branch.
 
-Live site: https://star-people.github.io/dog-whistle/
+Live site: https://starpeopleai.github.io/dog-whistle/
 
-Repository: https://github.com/Star-People/dog-whistle
+Repository: https://github.com/starpeopleai/dog-whistle
 
 Anonymous tips: https://tips.hushline.app/to/ufo-files
 
